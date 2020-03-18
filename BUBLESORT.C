@@ -8,7 +8,7 @@ void main()
 {
 int a[100],n,i,j,temp;
 clrscr();
-printf("How many elements");
+printf("How Many Elements");
 scanf("%d",&n);
 printf("Enter the element of array");
 for(i=0;i<=n-1;i++)
